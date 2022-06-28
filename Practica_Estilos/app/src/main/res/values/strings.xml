@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica_Estilos</string>
+    <string-array name="Asig">
+        <item>Tema1</item>
+        <item>Tema2</item>
+        <item>Tema3</item>
+    </string-array>
+</resources>
